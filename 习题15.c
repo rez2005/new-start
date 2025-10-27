@@ -1,10 +1,9 @@
-#define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h> 
 int main()
 {
 	int a, b, c, sum, max, min;
 	float average;
-	printf("ÇëÊäÈëÈı¸öÕûÊı:");
+	printf("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½:");
 	scanf("%d %d %d", &a, &b, &c);
 	sum = a + b + c;
 	average = sum / 3.0;
