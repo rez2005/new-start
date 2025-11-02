@@ -14,10 +14,6 @@ int rotatematrix(int matrix[][100], int n)
     return 0;
 }
 
-
-
-
-
 int main()
 {
     int n;
